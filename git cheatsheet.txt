@@ -1,0 +1,25 @@
+1-make a folder folder name 
+2-make a reposetory on github
+3-get a repository clone link 
+4-open gitbash, go to local folder and open gitbash here or else open gitbash and go to folder location that you created in point 1
+5-type code (git config --global user.name "Nitin srivastava" then press enter 
+6-type code (git config --global user.email "example123@gmail.com") then press enter 
+7-please confirm that you are in your github folder by using (pwd) command don't use bracket
+8-type code git clone that clone link form point 3.
+9-you can create folder inside the main branch or else you can push file directly by these code 
+i- git status
+ii-git add .
+iii-git commit -m "msg"
+iv-git push
+-----SHORTHAND FOR GITBASH-------
+i-ls=list of all directory
+ii-pwd= it show your present directory
+iii-. current directory 
+iv-cd=change directory 
+v- cd ..= for getting your previous directory
+vi-mkdir foder-name to make nwe directory
+vii-cat file-name =to show the content of the file 
+vii-mv oldFILE-->newFILE 
+viii-mv file/folder location then it move in that location 
+
+
